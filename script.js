@@ -109,7 +109,7 @@
     {
       type: 'cover',
       chapter: 'Sampul Depan',
-      image: 'gambar/Cover.png',
+      image: 'gambar/cover.jpeg',
       hint: 'Tekan tombol "Selanjutnya ▶" di sebelah kanan untuk mulai membaca!',
     },
     // 2 — Petunjuk Penggunaan
